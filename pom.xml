@@ -47,8 +47,7 @@
     </dependencies>
 
     <scm>
-        <url>https://github.com/leaf-development/cd-csd.git</url>
-        <connection>scm:git://github.com/leaf-development/cd-csd.git</connection>
+         <connection>scm:git:git@github.com:leaf-development/cd-csd-application.git</connection>
     </scm>
 
     <distributionManagement>
