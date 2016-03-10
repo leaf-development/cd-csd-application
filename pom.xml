@@ -9,6 +9,8 @@
 
     <name>cd-csd-application</name>
 
+    <description>Application to demonstrate continuous delivery in action</description>
+
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
