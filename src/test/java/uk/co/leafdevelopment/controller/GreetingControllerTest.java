@@ -33,7 +33,7 @@ public class GreetingControllerTest {
 
 		// Then
 		result.andExpect(status().isOk());
-		result.andExpect(content().string(is("Hello mate")));
+		result.andExpect(content().string(is("Hello friend")));
 	}
 
 }
